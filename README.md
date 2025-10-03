@@ -234,10 +234,16 @@ This project is licensed under the MIT License.
 
 For issues and questions, please create an issue in the repository.
 
-## Author
+## Contact
 
-Pranjal
+For questions, support, or feedback, please reach out:
 
----
+- **Developer**: Pranjal Jais
+- **Email**: pranjaljais2@gmail.com
+- **Project Repository**: https://github.com/pranjal0jais/Home-Appliance-Manager/
+- **Issues**: Report bugs or request features through GitHub Issues
+- **LinkedIn**: https://www.linkedin.com/in/pranjal-jais-549433366/
+
+For urgent matters or security concerns, please email directly with "URGENT" in the subject line.
 
 **Note**: Ensure all sensitive credentials are kept secure and never committed to version control.
